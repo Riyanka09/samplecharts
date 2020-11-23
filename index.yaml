@@ -19,6 +19,6 @@ entries:
       digest: aaff4545f79d8b2913a10cb400ebb6fa9c77fe813287afbacf1a0b897cdffffff
       name: my-nginx
       urls:
-      - https://riyanka09.github.io/samplecharts/
+      - https://riyanka09.github.io/samplecharts/my-nginx-0.1.0.tgz
       version: 1.2.0
       generated: 2020-11-23T16:23:20.499029981-06:00
