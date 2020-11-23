@@ -11,15 +11,14 @@ entries:
     - https://riyanka09.github.io/samplecharts/
     version: 0.1.0
 generated: 2019-04-16T11:10:08.729368+02:00
-ingress-nginx:
-    - created: 2020-11-23T16:23:20.499543808-06:00
-      description: Create a custom nginx HTTP server
-      digest: aaff4545f79d8b2913a10cb400ebb6fa9c77fe813287afbacf1a0b897cdffffff
-      home: https://helm.sh/helm
-      name: ingress-nginx
-      sources:
-      - https://github.com/helm/charts
-      urls:
+   ingress-nginx:
+    - apiVersion: v1
+    appVersion: "1.0"
+    created: 2020-11-23T16:23:20.499543808-06:00
+    description: Create a custom nginx HTTP server
+    digest: aaff4545f79d8b2913a10cb400ebb6fa9c77fe813287afbacf1a0b897cdffffff
+    name: ingress-nginx
+    urls:
       - https://riyanka09.github.io/samplecharts/ingress-nginx-3.10.1.tgz
       version: 1.1.0
 generated: 2020-11-23T16:23:20.499029981-06:00
